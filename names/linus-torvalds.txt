@@ -1,0 +1,2 @@
+Why cannot force push? 
+Weak commits die so stronger ones can take their place.
